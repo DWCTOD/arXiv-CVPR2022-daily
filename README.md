@@ -1,9 +1,24 @@
-## Updated on 2022.03.10
+## Updated on 2022.03.11
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
+|**2022-03-10**|**Representation Compensation Networks for Continual Semantic Segmentation**|Chang-Bin Zhang et.al.|[2203.05402v1](http://arxiv.org/abs/2203.05402v1)|**[link](https://github.com/zhangchbin/rcil)**|
+|**2022-03-10**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v1](http://arxiv.org/abs/2203.05380v1)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
+|**2022-03-10**|**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**|Zhuo Wang et.al.|[2203.05340v1](http://arxiv.org/abs/2203.05340v1)|null|
+|**2022-03-10**|**Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects**|Manuel Stoiber et.al.|[2203.05334v1](http://arxiv.org/abs/2203.05334v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
+|**2022-03-10**|**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**|Lei Fan et.al.|[2203.05306v1](http://arxiv.org/abs/2203.05306v1)|null|
+|**2022-03-10**|**Contrastive Boundary Learning for Point Cloud Segmentation**|Liyao Tang et.al.|[2203.05272v1](http://arxiv.org/abs/2203.05272v1)|**[link](https://github.com/liyaotang/contrastboundary)**|
+|**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v1](http://arxiv.org/abs/2203.05238v1)|**[link](https://github.com/xuxw98/backtoreality)**|
+|**2022-03-10**|**Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability**|Ruifei He et.al.|[2203.05180v1](http://arxiv.org/abs/2203.05180v1)|**[link](https://github.com/cvmi-lab/kdep)**|
+|**2022-03-10**|**Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack**|Ye Liu et.al.|[2203.05154v1](http://arxiv.org/abs/2203.05154v1)|**[link](https://github.com/liuye6666/adaptive_auto_attack)**|
+|**2022-03-10**|**Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity**|Cheng Luo et.al.|[2203.05151v1](http://arxiv.org/abs/2203.05151v1)|null|
+|**2022-03-10**|**OpenTAL: Towards Open Set Temporal Action Localization**|Wentao Bao et.al.|[2203.05114v1](http://arxiv.org/abs/2203.05114v1)|**[link](https://github.com/Cogito2012/OpenTAL)**|
+|**2022-03-09**|**NLX-GPT: A Model for Natural Language Explanations in Vision and Vision-Language Tasks**|Fawaz Sammani et.al.|[2203.05081v1](http://arxiv.org/abs/2203.05081v1)|**[link](https://github.com/fawazsammani/nlxgpt)**|
+|**2022-03-09**|**Adaptive Trajectory Prediction via Transferable GNN**|Yi Xu et.al.|[2203.05046v1](http://arxiv.org/abs/2203.05046v1)|null|
+|**2022-03-09**|**Neural Data-Dependent Transform for Learned Image Compression**|Dezhao Wang et.al.|[2203.04963v1](http://arxiv.org/abs/2203.04963v1)|null|
 |**2022-03-09**|**What Matters For Meta-Learning Vision Regression Tasks?**|Ning Gao et.al.|[2203.04905v1](http://arxiv.org/abs/2203.04905v1)|null|
 |**2022-03-09**|**How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting**|Alessio Monti et.al.|[2203.04781v1](http://arxiv.org/abs/2203.04781v1)|null|
 |**2022-03-09**|**SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters**|Albert Mosella-Montoro et.al.|[2203.04746v1](http://arxiv.org/abs/2203.04746v1)|null|
