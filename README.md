@@ -1,16 +1,24 @@
-## Updated on 2022.03.13
+## Updated on 2022.03.14
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-11**|**REX: Reasoning-aware and Grounded Explanation**|Shi Chen et.al.|[2203.06107v1](http://arxiv.org/abs/2203.06107v1)|**[link](https://github.com/szzexpoi/rex)**|
+|**2022-03-11**|**Enhancing Adversarial Training with Second-Order Statistics of Weights**|Gaojie Jin et.al.|[2203.06020v1](http://arxiv.org/abs/2203.06020v1)|**[link](https://github.com/alexkael/s2o)**|
+|**2022-03-11**|**Hyperbolic Image Segmentation**|Mina GhadimiAtigh et.al.|[2203.05898v1](http://arxiv.org/abs/2203.05898v1)|**[link](https://github.com/minaghadimiatigh/hyperbolicimagesegmentation)**|
+|**2022-03-11**|**WiCV 2021: The Eighth Women In Computer Vision Workshop**|Arushi Goel et.al.|[2203.05825v1](http://arxiv.org/abs/2203.05825v1)|null|
+|**2022-03-11**|**FLAG: Flow-based 3D Avatar Generation from Sparse Observations**|Sadegh Aliakbarian et.al.|[2203.05789v1](http://arxiv.org/abs/2203.05789v1)|null|
+|**2022-03-11**|**Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection**|Siyue Yu et.al.|[2203.05787v1](http://arxiv.org/abs/2203.05787v1)|null|
+|**2022-03-11**|**Learning Distinctive Margin toward Active Domain Adaptation**|Ming Xie et.al.|[2203.05738v1](http://arxiv.org/abs/2203.05738v1)|null|
+|**2022-03-10**|**Point Density-Aware Voxels for LiDAR 3D Object Detection**|Jordan S. K. Hu et.al.|[2203.05662v1](http://arxiv.org/abs/2203.05662v1)|**[link](https://github.com/trailab/pdv)**|
 |**2022-03-10**|**Conditional Prompt Learning for Vision-Language Models**|Kaiyang Zhou et.al.|[2203.05557v1](http://arxiv.org/abs/2203.05557v1)|**[link](https://github.com/kaiyangzhou/coop)**|
 |**2022-03-10**|**Representation Compensation Networks for Continual Semantic Segmentation**|Chang-Bin Zhang et.al.|[2203.05402v1](http://arxiv.org/abs/2203.05402v1)|**[link](https://github.com/zhangchbin/rcil)**|
 |**2022-03-10**|**Spatial Commonsense Graph for Object Localisation in Partial Scenes**|Francesco Giuliari et.al.|[2203.05380v1](http://arxiv.org/abs/2203.05380v1)|**[link](https://github.com/fgiuliari/spatialcommonsensegraph-dataset)**|
-|**2022-03-10**|**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**|Zhuo Wang et.al.|[2203.05340v1](http://arxiv.org/abs/2203.05340v1)|null|
+|**2022-03-10**|**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**|Zhuo Wang et.al.|[2203.05340v2](http://arxiv.org/abs/2203.05340v2)|null|
 |**2022-03-10**|**Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects**|Manuel Stoiber et.al.|[2203.05334v1](http://arxiv.org/abs/2203.05334v1)|**[link](https://github.com/dlr-rm/3dobjecttracking)**|
 |**2022-03-10**|**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**|Lei Fan et.al.|[2203.05306v1](http://arxiv.org/abs/2203.05306v1)|null|
-|**2022-03-10**|**Contrastive Boundary Learning for Point Cloud Segmentation**|Liyao Tang et.al.|[2203.05272v1](http://arxiv.org/abs/2203.05272v1)|**[link](https://github.com/liyaotang/contrastboundary)**|
+|**2022-03-10**|**Contrastive Boundary Learning for Point Cloud Segmentation**|Liyao Tang et.al.|[2203.05272v2](http://arxiv.org/abs/2203.05272v2)|**[link](https://github.com/liyaotang/contrastboundary)**|
 |**2022-03-10**|**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**|Xiuwei Xu et.al.|[2203.05238v1](http://arxiv.org/abs/2203.05238v1)|**[link](https://github.com/xuxw98/backtoreality)**|
 |**2022-03-10**|**Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability**|Ruifei He et.al.|[2203.05180v1](http://arxiv.org/abs/2203.05180v1)|**[link](https://github.com/cvmi-lab/kdep)**|
 |**2022-03-10**|**Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack**|Ye Liu et.al.|[2203.05154v1](http://arxiv.org/abs/2203.05154v1)|**[link](https://github.com/liuye6666/adaptive_auto_attack)**|
