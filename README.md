@@ -1,24 +1,34 @@
-## Updated on 2022.03.15
+## Updated on 2022.03.16
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-15**|**Can Neural Nets Learn the Same Model Twice? Investigating Reproducibility and Double Descent from the Decision Boundary Perspective**|Gowthami Somepalli et.al.|[2203.08124v1](http://arxiv.org/abs/2203.08124v1)|**[link](https://github.com/somepago/dbviz)**|
+|**2022-03-15**|**Implicit Feature Decoupling with Depthwise Quantization**|Iordanis Fostiropoulos et.al.|[2203.08080v1](http://arxiv.org/abs/2203.08080v1)|**[link](https://github.com/fostiropoulos/depthwise-quantization)**|
+|**2022-03-15**|**OcclusionFusion: Occlusion-aware Motion Estimation for Real-time Dynamic 3D Reconstruction**|Wenbin Lin et.al.|[2203.07977v1](http://arxiv.org/abs/2203.07977v1)|null|
+|**2022-03-15**|**Style Transformer for Image Inversion and Editing**|Xueqi Hu et.al.|[2203.07932v1](http://arxiv.org/abs/2203.07932v1)|**[link](https://github.com/sapphire497/style-transformer)**|
+|**2022-03-15**|**GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting**|Yan Di et.al.|[2203.07918v1](http://arxiv.org/abs/2203.07918v1)|**[link](https://github.com/lolrudy/gpv_pose)**|
+|**2022-03-15**|**Interspace Pruning: Using Adaptive Filter Representations to Improve Training of Sparse CNNs**|Paul Wimmer et.al.|[2203.07808v1](http://arxiv.org/abs/2203.07808v1)|null|
+|**2022-03-15**|**Scalable Penalized Regression for Noise Detection in Learning with Noisy Labels**|Yikai Wang et.al.|[2203.07788v1](http://arxiv.org/abs/2203.07788v1)|null|
+|**2022-03-15**|**Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization**|Yabin Zhang et.al.|[2203.07740v1](http://arxiv.org/abs/2203.07740v1)|**[link](https://github.com/ybzh/efdm)**|
+|**2022-03-15**|**Learning What Not to Segment: A New Perspective on Few-Shot Segmentation**|Chunbo Lang et.al.|[2203.07615v1](http://arxiv.org/abs/2203.07615v1)|**[link](https://github.com/chunbolang/BAM)**|
+|**2022-03-14**|**Implicit Motion Handling for Video Camouflaged Object Detection**|Xuelian Cheng et.al.|[2203.07363v2](http://arxiv.org/abs/2203.07363v2)|null|
 |**2022-03-14**|**GCFSR: a Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors**|Jingwen He et.al.|[2203.07319v1](http://arxiv.org/abs/2203.07319v1)|null|
 |**2022-03-14**|**RCL: Recurrent Continuous Localization for Temporal Action Detection**|Qiang Wang et.al.|[2203.07112v1](http://arxiv.org/abs/2203.07112v1)|null|
 |**2022-03-14**|**Active Learning by Feature Mixing**|Amin Parvaneh et.al.|[2203.07034v1](http://arxiv.org/abs/2203.07034v1)|**[link](https://github.com/aminparvaneh/alpha_mix_active_learning)**|
 |**2022-03-14**|**Rethinking Minimal Sufficient Representation in Contrastive Learning**|Haoqing Wang et.al.|[2203.07004v1](http://arxiv.org/abs/2203.07004v1)|**[link](https://github.com/haoqing-wang/infocl)**|
-|**2022-03-14**|**Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**|Zejin Wang et.al.|[2203.06967v1](http://arxiv.org/abs/2203.06967v1)|**[link](https://github.com/demonsjin/blind2unblind)**|
+|**2022-03-14**|**Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**|Zejin Wang et.al.|[2203.06967v2](http://arxiv.org/abs/2203.06967v2)|**[link](https://github.com/demonsjin/blind2unblind)**|
 |**2022-03-14**|**UniVIP: A Unified Framework for Self-Supervised Visual Pre-training**|Zhaowen Li et.al.|[2203.06965v1](http://arxiv.org/abs/2203.06965v1)|null|
 |**2022-03-14**|**Forward Compatible Few-Shot Class-Incremental Learning**|Da-Wei Zhou et.al.|[2203.06953v1](http://arxiv.org/abs/2203.06953v1)|**[link](https://github.com/zhoudw-zdw/cvpr22-fact)**|
-|**2022-03-14**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v1](http://arxiv.org/abs/2203.06947v1)|null|
+|**2022-03-14**|**XYLayoutLM: Towards Layout-Aware Multimodal Networks For Visually-Rich Document Understanding**|Zhangxuan Gu et.al.|[2203.06947v2](http://arxiv.org/abs/2203.06947v2)|null|
 |**2022-03-14**|**Accelerating DETR Convergence via Semantic-Aligned Matching**|Gongjie Zhang et.al.|[2203.06883v1](http://arxiv.org/abs/2203.06883v1)|**[link](https://github.com/zhanggongjie/sam-detr)**|
 |**2022-03-14**|**ADAS: A Direct Adaptation Strategy for Multi-Target Domain Adaptive Semantic Segmentation**|Seunghun Lee et.al.|[2203.06811v1](http://arxiv.org/abs/2203.06811v1)|null|
 |**2022-03-13**|**Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs**|Xiaohan Ding et.al.|[2203.06717v1](http://arxiv.org/abs/2203.06717v1)|**[link](https://github.com/megvii-research/replknet)**|
 |**2022-03-13**|**LAS-AT: Adversarial Training with Learnable Attack Strategy**|Xiaojun Jia et.al.|[2203.06616v1](http://arxiv.org/abs/2203.06616v1)|**[link](https://github.com/jiaxiaojunqaq/las-at)**|
-|**2022-03-13**|**Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2203.06605v1](http://arxiv.org/abs/2203.06605v1)|null|
+|**2022-03-13**|**Depth-Aware Generative Adversarial Network for Talking Head Video Generation**|Fa-Ting Hong et.al.|[2203.06605v2](http://arxiv.org/abs/2203.06605v2)|null|
 |**2022-03-13**|**AutoGPart: Intermediate Supervision Search for Generalizable 3D Part Segmentation**|Xueyi Liu et.al.|[2203.06558v1](http://arxiv.org/abs/2203.06558v1)|null|
-|**2022-03-13**|**Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning**|Jiahao Xia et.al.|[2203.06541v1](http://arxiv.org/abs/2203.06541v1)|null|
+|**2022-03-13**|**Sparse Local Patch Transformer for Robust Face Alignment and Landmarks Inherent Relation Learning**|Jiahao Xia et.al.|[2203.06541v1](http://arxiv.org/abs/2203.06541v1)|**[link](https://github.com/jiahao-uts/slpt-master)**|
 |**2022-03-12**|**Kernel Proposal Network for Arbitrary Shape Text Detection**|Shi-Xue Zhang et.al.|[2203.06410v1](http://arxiv.org/abs/2203.06410v1)|null|
 |**2022-03-12**|**SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection**|Wuyang Li et.al.|[2203.06398v1](http://arxiv.org/abs/2203.06398v1)|**[link](https://github.com/cityu-aim-group/sigma)**|
 |**2022-03-12**|**Self-Sustaining Representation Expansion for Non-Exemplar Class-Incremental Learning**|Kai Zhu et.al.|[2203.06359v1](http://arxiv.org/abs/2203.06359v1)|null|
