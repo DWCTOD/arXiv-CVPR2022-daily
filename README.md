@@ -1,21 +1,33 @@
-## Updated on 2022.03.20
+## Updated on 2022.03.21
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
+|**2022-03-18**|**Learning Affordance Grounding from Exocentric Images**|Hongchen Luo et.al.|[2203.09905v1](http://arxiv.org/abs/2203.09905v1)|**[link](https://github.com/lhc1224/cross-view-affordance-grounding)**|
+|**2022-03-18**|**DTA: Physical Camouflage Attacks using Differentiable Transformation Network**|Naufal Suryanto et.al.|[2203.09831v1](http://arxiv.org/abs/2203.09831v1)|null|
+|**2022-03-18**|**Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?**|Cho-Ying Wu et.al.|[2203.09824v1](http://arxiv.org/abs/2203.09824v1)|null|
+|**2022-03-18**|**Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation**|Xingning Dong et.al.|[2203.09811v1](http://arxiv.org/abs/2203.09811v1)|**[link](https://github.com/dongxingning/sha-gcl-for-sgg)**|
+|**2022-03-18**|**Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion**|Xiaopei Wu et.al.|[2203.09780v1](http://arxiv.org/abs/2203.09780v1)|null|
+|**2022-03-18**|**ContrastMask: Contrastive Learning to Segment Every Thing**|Xuehui Wang et.al.|[2203.09775v1](http://arxiv.org/abs/2203.09775v1)|null|
+|**2022-03-18**|**Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation**|Ruihuang Li et.al.|[2203.09744v1](http://arxiv.org/abs/2203.09744v1)|**[link](https://github.com/lslrh/cpsl)**|
+|**2022-03-18**|**A Dual Weighting Label Assignment Scheme for Object Detection**|Shuai Li et.al.|[2203.09730v1](http://arxiv.org/abs/2203.09730v1)|**[link](https://github.com/strongwolf/dw)**|
+|**2022-03-18**|**VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention**|Shengheng Deng et.al.|[2203.09704v1](http://arxiv.org/abs/2203.09704v1)|**[link](https://github.com/gorilla-lab-scut/vista)**|
+|**2022-03-17**|**Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation**|Tianfei Zhou et.al.|[2203.09653v1](http://arxiv.org/abs/2203.09653v1)|**[link](https://github.com/maeve07/rca)**|
+|**2022-03-17**|**Cascade Transformers for End-to-End Person Search**|Rui Yu et.al.|[2203.09642v1](http://arxiv.org/abs/2203.09642v1)|**[link](https://github.com/kitware/coat)**|
 |**2022-03-17**|**AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation**|Paritosh Mittal et.al.|[2203.09516v1](http://arxiv.org/abs/2203.09516v1)|null|
 |**2022-03-17**|**FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos**|Yan Wang et.al.|[2203.09463v1](http://arxiv.org/abs/2203.09463v1)|null|
 |**2022-03-17**|**Look Outside the Room: Synthesizing A Consistent Long-Term 3D Scene Video from A Single Image**|Xuanchi Ren et.al.|[2203.09457v1](http://arxiv.org/abs/2203.09457v1)|null|
-|**2022-03-17**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v1](http://arxiv.org/abs/2203.09446v1)|null|
+|**2022-03-17**|**Vox2Cortex: Fast Explicit Reconstruction of Cortical Surfaces from 3D MRI Scans with Geometric Deep Neural Networks**|Fabian Bongratz et.al.|[2203.09446v2](http://arxiv.org/abs/2203.09446v2)|null|
 |**2022-03-17**|**ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation**|Yongzhi Su et.al.|[2203.09418v1](http://arxiv.org/abs/2203.09418v1)|**[link](https://github.com/suyz526/zebrapose)**|
 |**2022-03-17**|**Bi-directional Object-context Prioritization Learning for Saliency Ranking**|Xin Tian et.al.|[2203.09416v1](http://arxiv.org/abs/2203.09416v1)|**[link](https://github.com/grassbro/ocor)**|
-|**2022-03-17**|**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2203.09388v1](http://arxiv.org/abs/2203.09388v1)|**[link](https://github.com/mjq11302010044/tatt)**|
-|**2022-03-17**|**Interacting Attention Graph for Single Image Two-Hand Reconstruction**|Mengcheng Li et.al.|[2203.09364v1](http://arxiv.org/abs/2203.09364v1)|null|
+|**2022-03-17**|**A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**|Jianqi Ma et.al.|[2203.09388v2](http://arxiv.org/abs/2203.09388v2)|**[link](https://github.com/mjq11302010044/tatt)**|
+|**2022-03-17**|**Interacting Attention Graph for Single Image Two-Hand Reconstruction**|Mengcheng Li et.al.|[2203.09364v2](http://arxiv.org/abs/2203.09364v2)|null|
 |**2022-03-17**|**Object Localization under Single Coarse Point Supervision**|Xuehui Yu et.al.|[2203.09338v1](http://arxiv.org/abs/2203.09338v1)|**[link](https://github.com/ucas-vg/pointtinybenchmark)**|
 |**2022-03-17**|**Modulated Contrast for Versatile Image Synthesis**|Fangneng Zhan et.al.|[2203.09333v1](http://arxiv.org/abs/2203.09333v1)|**[link](https://github.com/fnzhan/monce)**|
 |**2022-03-17**|**Fine-tuning Global Model via Data-Free Knowledge Distillation for Non-IID Federated Learning**|Lin Zhang et.al.|[2203.09249v1](http://arxiv.org/abs/2203.09249v1)|null|
-|**2022-03-17**|**Neural Compression-Based Feature Learning for Video Restoration**|Cong Huang et.al.|[2203.09208v1](http://arxiv.org/abs/2203.09208v1)|null|
+|**2022-03-17**|**Neural Compression-Based Feature Learning for Video Restoration**|Cong Huang et.al.|[2203.09208v2](http://arxiv.org/abs/2203.09208v2)|null|
 |**2022-03-17**|**Details or Artifacts: A Locally Discriminative Learning Approach to Realistic Image Super-Resolution**|Jie Liang et.al.|[2203.09195v1](http://arxiv.org/abs/2203.09195v1)|**[link](https://github.com/csjliang/ldl)**|
 |**2022-03-17**|**MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering**|Yang Ding et.al.|[2203.09138v1](http://arxiv.org/abs/2203.09138v1)|**[link](https://github.com/andersonstra/mukea)**|
 |**2022-03-17**|**Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning**|Haoxiang Wang et.al.|[2203.09137v1](http://arxiv.org/abs/2203.09137v1)|**[link](https://github.com/yitewang/metantk-nas)**|
