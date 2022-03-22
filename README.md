@@ -1,11 +1,36 @@
-## Updated on 2022.03.21
+## Updated on 2022.03.22
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-21**|**Transforming Model Prediction for Tracking**|Christoph Mayer et.al.|[2203.11192v1](http://arxiv.org/abs/2203.11192v1)|**[link](https://github.com/visionml/pytracking)**|
+|**2022-03-21**|**DiffPoseNet: Direct Differentiable Camera Pose Estimation**|Chethan M. Parameshwara et.al.|[2203.11174v1](http://arxiv.org/abs/2203.11174v1)|null|
+|**2022-03-21**|**Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds**|Yifan Zhang et.al.|[2203.11139v1](http://arxiv.org/abs/2203.11139v1)|**[link](https://github.com/yifanzhang713/ia-ssd)**|
+|**2022-03-21**|**No Pain, Big Gain: Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces**|Jia-Xing Zhong et.al.|[2203.11113v1](http://arxiv.org/abs/2203.11113v1)|**[link](https://github.com/jx-zhong-for-academic-purpose/kinet)**|
+|**2022-03-21**|**MixFormer: End-to-End Tracking with Iterative Mixed Attention**|Yutao Cui et.al.|[2203.11082v1](http://arxiv.org/abs/2203.11082v1)|**[link](https://github.com/MCG-NJU/MixFormer)**|
+|**2022-03-21**|**MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer**|Kuan-Chih Huang et.al.|[2203.10981v1](http://arxiv.org/abs/2203.10981v1)|**[link](https://github.com/kuanchihhuang/monodtr)**|
+|**2022-03-21**|**Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**|Xiaosu Zhu et.al.|[2203.10897v1](http://arxiv.org/abs/2203.10897v1)|**[link](https://github.com/xiaosu-zhu/McQuic)**|
+|**2022-03-21**|**Revisiting Domain Generalized Stereo Matching Networks from a Feature Consistency Perspective**|Jiawei Zhang et.al.|[2203.10887v1](http://arxiv.org/abs/2203.10887v1)|**[link](https://github.com/jiaw-z/fcstereo)**|
+|**2022-03-21**|**ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding**|Dailan He et.al.|[2203.10886v1](http://arxiv.org/abs/2203.10886v1)|null|
+|**2022-03-21**|**RGB-Depth Fusion GAN for Indoor Depth Completion**|Haowen Wang et.al.|[2203.10856v1](http://arxiv.org/abs/2203.10856v1)|null|
+|**2022-03-21**|**Hyperbolic Vision Transformers: Combining Improvements in Metric Learning**|Aleksandr Ermolov et.al.|[2203.10833v1](http://arxiv.org/abs/2203.10833v1)|**[link](https://github.com/htdt/hyp_metric)**|
+|**2022-03-21**|**ViM: Out-Of-Distribution with Virtual-logit Matching**|Haoqi Wang et.al.|[2203.10807v1](http://arxiv.org/abs/2203.10807v1)|**[link](https://github.com/haoqiwang/vim)**|
+|**2022-03-21**|**Delving into the Estimation Shift of Batch Normalization in a Network**|Lei Huang et.al.|[2203.10778v1](http://arxiv.org/abs/2203.10778v1)|**[link](https://github.com/huangleibuaa/xbnblock)**|
+|**2022-03-21**|**Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation**|Zhiyuan Liang et.al.|[2203.10739v1](http://arxiv.org/abs/2203.10739v1)|null|
+|**2022-03-21**|**HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network**|Chang Yu et.al.|[2203.10699v1](http://arxiv.org/abs/2203.10699v1)|null|
+|**2022-03-20**|**Unsupervised Domain Adaptation for Nighttime Aerial Tracking**|Junjie Ye et.al.|[2203.10541v1](http://arxiv.org/abs/2203.10541v1)|**[link](https://github.com/vision4robotics/udat)**|
+|**2022-03-20**|**Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light**|Yuhua Xu et.al.|[2203.10493v1](http://arxiv.org/abs/2203.10493v1)|null|
+|**2022-03-20**|**SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization**|Canjie Luo et.al.|[2203.10492v1](http://arxiv.org/abs/2203.10492v1)|**[link](https://github.com/canjie-luo/real-300k)**|
+|**2022-03-20**|**TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing**|Jierun Chen et.al.|[2203.10489v1](http://arxiv.org/abs/2203.10489v1)|**[link](https://github.com/jierunchen/tvconv)**|
+|**2022-03-20**|**Portrait Eyeglasses and Shadow Removal by Leveraging 3D Synthetic Data**|Junfeng Lyu et.al.|[2203.10474v1](http://arxiv.org/abs/2203.10474v1)|**[link](https://github.com/storymy/take-off-eyeglasses)**|
+|**2022-03-19**|**CLRNet: Cross Layer Refinement Network for Lane Detection**|Tu Zheng et.al.|[2203.10350v1](http://arxiv.org/abs/2203.10350v1)|null|
+|**2022-03-19**|**Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds**|Chenhang He et.al.|[2203.10314v1](http://arxiv.org/abs/2203.10314v1)|**[link](https://github.com/skyhehe123/voxset)**|
+|**2022-03-19**|**DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition**|Thanh-Dat Truong et.al.|[2203.10233v1](http://arxiv.org/abs/2203.10233v1)|**[link](https://github.com/uark-cviu/direcformer)**|
+|**2022-03-19**|**SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition**|Mingxin Huang et.al.|[2203.10209v1](http://arxiv.org/abs/2203.10209v1)|**[link](https://github.com/mxin262/swintextspotter)**|
+|**2022-03-18**|**Discovering Objects that Can Move**|Zhipeng Bao et.al.|[2203.10159v1](http://arxiv.org/abs/2203.10159v1)|null|
 |**2022-03-18**|**Fourier Document Restoration for Robust Document Dewarping and Recognition**|Chuhui Xue et.al.|[2203.09910v1](http://arxiv.org/abs/2203.09910v1)|null|
-|**2022-03-18**|**Learning Affordance Grounding from Exocentric Images**|Hongchen Luo et.al.|[2203.09905v1](http://arxiv.org/abs/2203.09905v1)|**[link](https://github.com/lhc1224/cross-view-affordance-grounding)**|
+|**2022-03-18**|**Learning Affordance Grounding from Exocentric Images**|Hongchen Luo et.al.|[2203.09905v1](http://arxiv.org/abs/2203.09905v1)|**[link](https://github.com/lhc1224/cross-view-ag)**|
 |**2022-03-18**|**DTA: Physical Camouflage Attacks using Differentiable Transformation Network**|Naufal Suryanto et.al.|[2203.09831v1](http://arxiv.org/abs/2203.09831v1)|null|
 |**2022-03-18**|**Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?**|Cho-Ying Wu et.al.|[2203.09824v1](http://arxiv.org/abs/2203.09824v1)|null|
 |**2022-03-18**|**Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation**|Xingning Dong et.al.|[2203.09811v1](http://arxiv.org/abs/2203.09811v1)|**[link](https://github.com/dongxingning/sha-gcl-for-sgg)**|
