@@ -1,13 +1,35 @@
-## Updated on 2022.03.24
+## Updated on 2022.03.25
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-24**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2203.13254v1](http://arxiv.org/abs/2203.13254v1)|null|
+|**2022-03-24**|**Global Tracking Transformers**|Xingyi Zhou et.al.|[2203.13250v1](http://arxiv.org/abs/2203.13250v1)|**[link](https://github.com/xingyizhou/GTR)**|
+|**2022-03-24**|**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**|Shuai Yang et.al.|[2203.13248v1](http://arxiv.org/abs/2203.13248v1)|**[link](https://github.com/williamyang1991/DualStyleGAN)**|
+|**2022-03-24**|**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation**|Xian Liu et.al.|[2203.13161v1](http://arxiv.org/abs/2203.13161v1)|**[link](https://github.com/alvinliu0/HA2G)**|
+|**2022-03-24**|**Moving Window Regression: A Novel Approach to Ordinal Regression**|Nyeong-Ho Shin et.al.|[2203.13122v1](http://arxiv.org/abs/2203.13122v1)|**[link](https://github.com/nhshin-mcl/mwr)**|
+|**2022-03-24**|**Egocentric Prediction of Action Target in 3D**|Yiming Li et.al.|[2203.13116v1](http://arxiv.org/abs/2203.13116v1)|null|
+|**2022-03-24**|**AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception**|Shaoyu Chen et.al.|[2203.13090v1](http://arxiv.org/abs/2203.13090v1)|**[link](https://github.com/hustvl/azinorm)**|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image**|Reyhaneh Neshatavar et.al.|[2203.13009v1](http://arxiv.org/abs/2203.13009v1)|**[link](https://github.com/reyhanehne/cvf-sid_pytorch)**|
+|**2022-03-24**|**Compound Domain Generalization via Meta-Knowledge Encoding**|Chaoqi Chen et.al.|[2203.13006v1](http://arxiv.org/abs/2203.13006v1)|null|
+|**2022-03-24**|**Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction**|M. Saquib Sarfraz et.al.|[2203.12997v1](http://arxiv.org/abs/2203.12997v1)|**[link](https://github.com/koulakis/h-nne)**|
+|**2022-03-24**|**WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation**|Yingzhi Tang et.al.|[2203.12917v1](http://arxiv.org/abs/2203.12917v1)|**[link](https://github.com/yztang4/warpinggan)**|
+|**2022-03-24**|**Neural Reflectance for Shape Recovery with Shadow Handling**|Junxuan Li et.al.|[2203.12909v1](http://arxiv.org/abs/2203.12909v1)|**[link](https://github.com/junxuan-li/neural-reflectance-ps)**|
+|**2022-03-24**|**RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization**|Yan Xu et.al.|[2203.12870v1](http://arxiv.org/abs/2203.12870v1)|null|
+|**2022-03-24**|**DyRep: Bootstrapping Training with Dynamic Re-parameterization**|Tao Huang et.al.|[2203.12868v1](http://arxiv.org/abs/2203.12868v1)|**[link](https://github.com/hunto/dyrep)**|
+|**2022-03-24**|**Beyond Fixation: Dynamic Window Visual Transformer**|Pengzhen Ren et.al.|[2203.12856v1](http://arxiv.org/abs/2203.12856v1)|**[link](https://github.com/pzhren/dw-vit)**|
+|**2022-03-24**|**Industrial Style Transfer with Large-scale Geometric Warping and Content Preservation**|Jinchao Yang et.al.|[2203.12835v1](http://arxiv.org/abs/2203.12835v1)|**[link](https://github.com/jcyang98/inst)**|
+|**2022-03-24**|**Sparse Instance Activation for Real-Time Instance Segmentation**|Tianheng Cheng et.al.|[2203.12827v1](http://arxiv.org/abs/2203.12827v1)|**[link](https://github.com/hustvl/sparseinst)**|
+|**2022-03-24**|**Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera**|Jae Shin Yoon et.al.|[2203.12780v1](http://arxiv.org/abs/2203.12780v1)|null|
+|**2022-03-23**|**Multidimensional Belief Quantification for Label-Efficient Meta-Learning**|Deep Pandey et.al.|[2203.12768v1](http://arxiv.org/abs/2203.12768v1)|null|
+|**2022-03-23**|**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**|Ye Liu et.al.|[2203.12745v1](http://arxiv.org/abs/2203.12745v1)|null|
+|**2022-03-23**|**Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**|Yanwu Xu et.al.|[2203.12707v1](http://arxiv.org/abs/2203.12707v1)|**[link](https://github.com/batmanlab/mspc)**|
 |**2022-03-23**|**DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation**|Aysim Toker et.al.|[2203.12560v1](http://arxiv.org/abs/2203.12560v1)|null|
 |**2022-03-23**|**Transformer-based Multimodal Information Fusion for Facial Expression Analysis**|Wei Zhang et.al.|[2203.12367v1](http://arxiv.org/abs/2203.12367v1)|null|
 |**2022-03-23**|**How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs**|Hazel Doughty et.al.|[2203.12344v1](http://arxiv.org/abs/2203.12344v1)|**[link](https://github.com/hazeld/pseudoadverbs)**|
-|**2022-03-23**|**Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**|Hangyu Li et.al.|[2203.12341v1](http://arxiv.org/abs/2203.12341v1)|**[link](https://github.com/hangyu94/ada-cm)**|
+|**2022-03-23**|**Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**|Hangyu Li et.al.|[2203.12341v2](http://arxiv.org/abs/2203.12341v2)|**[link](https://github.com/hangyu94/ada-cm)**|
 |**2022-03-23**|**Real-time Object Detection for Streaming Perception**|Jinrong Yang et.al.|[2203.12338v1](http://arxiv.org/abs/2203.12338v1)|**[link](https://github.com/yancie-yjr/StreamYOLO)**|
 |**2022-03-23**|**DR.VIC: Decomposition and Reasoning for Video Individual Counting**|Tao Han et.al.|[2203.12335v1](http://arxiv.org/abs/2203.12335v1)|**[link](https://github.com/taohan10200/drnet)**|
 |**2022-03-23**|**Node Representation Learning in Graph via Node-to-Neighbourhood Mutual Information Maximization**|Wei Dong et.al.|[2203.12265v1](http://arxiv.org/abs/2203.12265v1)|**[link](https://github.com/dongwei156/n2n)**|
