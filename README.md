@@ -1,9 +1,27 @@
-## Updated on 2022.03.27
+## Updated on 2022.03.28
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
+|**2022-03-25**|**Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion**|Tianpei Gu et.al.|[2203.13777v1](http://arxiv.org/abs/2203.13777v1)|**[link](https://github.com/gutianpei/mid)**|
+|**2022-03-25**|**Searching for Network Width with Bilaterally Coupled Network**|Xiu Su et.al.|[2203.13714v1](http://arxiv.org/abs/2203.13714v1)|**[link](https://github.com/xiusu/Channel-Bench-Macro)**|
+|**2022-03-25**|**Unsupervised Pre-training for Temporal Action Localization Tasks**|Can Zhang et.al.|[2203.13609v1](http://arxiv.org/abs/2203.13609v1)|null|
+|**2022-03-25**|**Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**|Xiaoqing Ye et.al.|[2203.13608v1](http://arxiv.org/abs/2203.13608v1)|null|
+|**2022-03-25**|**Continual Test-Time Domain Adaptation**|Qin Wang et.al.|[2203.13591v1](http://arxiv.org/abs/2203.13591v1)|**[link](https://github.com/qinenergy/cotta)**|
+|**2022-03-25**|**Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation**|Jinheng Xie et.al.|[2203.13505v1](http://arxiv.org/abs/2203.13505v1)|null|
+|**2022-03-25**|**Non-Probability Sampling Network for Stochastic Human Trajectory Prediction**|Inhwan Bae et.al.|[2203.13471v1](http://arxiv.org/abs/2203.13471v1)|null|
+|**2022-03-25**|**CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification**|Philip Chikontwe et.al.|[2203.13465v1](http://arxiv.org/abs/2203.13465v1)|null|
+|**2022-03-25**|**MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis**|Liwen Xu et.al.|[2203.13443v1](http://arxiv.org/abs/2203.13443v1)|null|
+|**2022-03-25**|**Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?**|Zhenyu Wang et.al.|[2203.13427v1](http://arxiv.org/abs/2203.13427v1)|null|
+|**2022-03-25**|**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**|Zengjie Song et.al.|[2203.13412v1](http://arxiv.org/abs/2203.13412v1)|null|
+|**2022-03-25**|**Point2Seq: Detecting 3D Objects as Sequences**|Yujing Xue et.al.|[2203.13394v1](http://arxiv.org/abs/2203.13394v1)|null|
+|**2022-03-24**|**Probing Representation Forgetting in Supervised and Unsupervised Continual Learning**|MohammadReza Davari et.al.|[2203.13381v1](http://arxiv.org/abs/2203.13381v1)|null|
+|**2022-03-24**|**NPBG++: Accelerating Neural Point-Based Graphics**|Ruslan Rakhimov et.al.|[2203.13318v1](http://arxiv.org/abs/2203.13318v1)|null|
+|**2022-03-24**|**SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation**|Chenming Zhu et.al.|[2203.13312v1](http://arxiv.org/abs/2203.13312v1)|null|
+|**2022-03-24**|**MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection**|Renrui Zhang et.al.|[2203.13310v1](http://arxiv.org/abs/2203.13310v1)|**[link](https://github.com/zrrskywalker/monodetr)**|
+|**2022-03-24**|**Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos**|Reza Ghoddoosian et.al.|[2203.13309v1](http://arxiv.org/abs/2203.13309v1)|null|
 |**2022-03-24**|**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**|Hansheng Chen et.al.|[2203.13254v1](http://arxiv.org/abs/2203.13254v1)|**[link](https://github.com/tjiiv-cprg/epro-pnp)**|
 |**2022-03-24**|**Global Tracking Transformers**|Xingyi Zhou et.al.|[2203.13250v1](http://arxiv.org/abs/2203.13250v1)|**[link](https://github.com/xingyizhou/GTR)**|
 |**2022-03-24**|**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**|Shuai Yang et.al.|[2203.13248v1](http://arxiv.org/abs/2203.13248v1)|**[link](https://github.com/williamyang1991/DualStyleGAN)**|
@@ -11,7 +29,7 @@
 |**2022-03-24**|**Moving Window Regression: A Novel Approach to Ordinal Regression**|Nyeong-Ho Shin et.al.|[2203.13122v1](http://arxiv.org/abs/2203.13122v1)|**[link](https://github.com/nhshin-mcl/mwr)**|
 |**2022-03-24**|**Egocentric Prediction of Action Target in 3D**|Yiming Li et.al.|[2203.13116v1](http://arxiv.org/abs/2203.13116v1)|null|
 |**2022-03-24**|**AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception**|Shaoyu Chen et.al.|[2203.13090v1](http://arxiv.org/abs/2203.13090v1)|**[link](https://github.com/hustvl/azinorm)**|
-|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v1](http://arxiv.org/abs/2203.13055v1)|**[link](https://github.com/lisiyao21/bailando)**|
+|**2022-03-24**|**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**|Li Siyao et.al.|[2203.13055v2](http://arxiv.org/abs/2203.13055v2)|**[link](https://github.com/lisiyao21/bailando)**|
 |**2022-03-24**|**CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image**|Reyhaneh Neshatavar et.al.|[2203.13009v1](http://arxiv.org/abs/2203.13009v1)|**[link](https://github.com/reyhanehne/cvf-sid_pytorch)**|
 |**2022-03-24**|**Compound Domain Generalization via Meta-Knowledge Encoding**|Chaoqi Chen et.al.|[2203.13006v1](http://arxiv.org/abs/2203.13006v1)|null|
 |**2022-03-24**|**Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction**|M. Saquib Sarfraz et.al.|[2203.12997v1](http://arxiv.org/abs/2203.12997v1)|**[link](https://github.com/koulakis/h-nne)**|
