@@ -1,9 +1,39 @@
-## Updated on 2022.03.28
+## Updated on 2022.03.29
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
+|**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
+|**2022-03-28**|**Energy-based Latent Aligner for Incremental Learning**|K J Joseph et.al.|[2203.14952v1](http://arxiv.org/abs/2203.14952v1)|**[link](https://github.com/josephkj/eli)**|
+|**2022-03-28**|**Controllable Dynamic Multi-Task Architectures**|Dripta S. Raychaudhuri et.al.|[2203.14949v1](http://arxiv.org/abs/2203.14949v1)|null|
+|**2022-03-28**|**Learning to Prompt for Open-Vocabulary Object Detection with Vision-Language Model**|Yu Du et.al.|[2203.14940v1](http://arxiv.org/abs/2203.14940v1)|**[link](https://github.com/dyabel/detpro)**|
+|**2022-03-28**|**Attributable Visual Similarity Learning**|Borui Zhang et.al.|[2203.14932v1](http://arxiv.org/abs/2203.14932v1)|**[link](https://github.com/zbr17/avsl)**|
+|**2022-03-28**|**Expanding Low-Density Latent Regions for Open-Set Object Detection**|Jiaming Han et.al.|[2203.14911v1](http://arxiv.org/abs/2203.14911v1)|**[link](https://github.com/csuhan/opendet2)**|
+|**2022-03-28**|**Optimizing Elimination Templates by Greedy Parameter Search**|Evgeniy Martyushev et.al.|[2203.14901v1](http://arxiv.org/abs/2203.14901v1)|null|
+|**2022-03-28**|**Learning Where to Learn in Cross-View Self-Supervised Learning**|Lang Huang et.al.|[2203.14898v1](http://arxiv.org/abs/2203.14898v1)|null|
+|**2022-03-28**|**Doodle It Yourself: Class Incremental Learning by Drawing a Few Sketches**|Ayan Kumar Bhunia et.al.|[2203.14843v1](http://arxiv.org/abs/2203.14843v1)|null|
+|**2022-03-28**|**Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval**|Ayan Kumar Bhunia et.al.|[2203.14817v1](http://arxiv.org/abs/2203.14817v1)|**[link](https://github.com/ayankumarbhunia/stroke_subset_selector-for-fgsbir)**|
+|**2022-03-28**|**Partially Does It: Towards Scene-Level FG-SBIR with Partial Input**|Pinaki Nath Chowdhury et.al.|[2203.14804v1](http://arxiv.org/abs/2203.14804v1)|null|
+|**2022-03-28**|**Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities**|Fadime Sener et.al.|[2203.14712v1](http://arxiv.org/abs/2203.14712v1)|**[link](https://github.com/assembly101/assembly101.github.io)**|
+|**2022-03-28**|**MSTR: Multi-Scale Transformer for End-to-End Human-Object Interaction Detection**|Bumsoo Kim et.al.|[2203.14709v1](http://arxiv.org/abs/2203.14709v1)|null|
+|**2022-03-28**|**Sketch3T: Test-Time Training for Zero-Shot SBIR**|Aneeshan Sain et.al.|[2203.14691v1](http://arxiv.org/abs/2203.14691v1)|null|
+|**2022-03-28**|**Brain-inspired Multilayer Perceptron with Spiking Neurons**|Wenshuo Li et.al.|[2203.14679v1](http://arxiv.org/abs/2203.14679v1)|null|
+|**2022-03-28**|**Part-based Pseudo Label Refinement for Unsupervised Person Re-identification**|Yoonki Cho et.al.|[2203.14675v1](http://arxiv.org/abs/2203.14675v1)|null|
+|**2022-03-28**|**Diverse Plausible 360-Degree Image Outpainting for Efficient 3DCG Background Creation**|Naofumi Akimoto et.al.|[2203.14668v1](http://arxiv.org/abs/2203.14668v1)|null|
+|**2022-03-28**|**FS6D: Few-Shot 6D Pose Estimation of Novel Objects**|Yisheng He et.al.|[2203.14628v1](http://arxiv.org/abs/2203.14628v1)|**[link](https://github.com/ethnhe/FS6D-PyTorch)**|
+|**2022-03-28**|**Towards Implicit Text-Guided 3D Shape Generation**|Zhengzhe Liu et.al.|[2203.14622v1](http://arxiv.org/abs/2203.14622v1)|**[link](https://github.com/liuzhengzhe/towards-implicit-text-guided-shape-generation)**|
+|**2022-03-28**|**Demystifying the Neural Tangent Kernel from a Practical Perspective: Can it be trusted for Neural Architecture Search without training?**|Jisoo Mok et.al.|[2203.14577v1](http://arxiv.org/abs/2203.14577v1)|**[link](https://github.com/nutellamok/demystifyingntk)**|
+|**2022-03-28**|**HandOccNet: Occlusion-Robust 3D Hand Mesh Estimation Network**|JoonKyu Park et.al.|[2203.14564v1](http://arxiv.org/abs/2203.14564v1)|null|
+|**2022-03-28**|**Reference-based Video Super-Resolution Using Multi-Camera Video Triplets**|Junyong Lee et.al.|[2203.14537v1](http://arxiv.org/abs/2203.14537v1)|**[link](https://github.com/codeslake/RefVSR)**|
+|**2022-03-28**|**Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation**|Xiaoke Jiang et.al.|[2203.14531v1](http://arxiv.org/abs/2203.14531v1)|null|
+|**2022-03-28**|**REGTR: End-to-end Point Cloud Correspondences with Transformers**|Zi Jian Yew et.al.|[2203.14517v1](http://arxiv.org/abs/2203.14517v1)|**[link](https://github.com/yewzijian/regtr)**|
+|**2022-03-28**|**ImFace: A Nonlinear 3D Morphable Face Model with Implicit Neural Representations**|Mingwu Zheng et.al.|[2203.14510v1](http://arxiv.org/abs/2203.14510v1)|null|
+|**2022-03-28**|**Automated Progressive Learning for Efficient Training of Vision Transformers**|Changlin Li et.al.|[2203.14509v1](http://arxiv.org/abs/2203.14509v1)|**[link](https://github.com/changlin31/autoprog)**|
+|**2022-03-28**|**Stratified Transformer for 3D Point Cloud Segmentation**|Xin Lai et.al.|[2203.14508v1](http://arxiv.org/abs/2203.14508v1)|**[link](https://github.com/dvlab-research/stratified-transformer)**|
+|**2022-03-28**|**Catching Both Gray and Black Swans: Open-set Supervised Anomaly Detection**|Choubo Ding et.al.|[2203.14506v1](http://arxiv.org/abs/2203.14506v1)|**[link](https://github.com/choubo/dra)**|
+|**2022-03-28**|**NOC-REK: Novel Object Captioning with Retrieved Vocabulary from External Knowledge**|Duc Minh Vo et.al.|[2203.14499v1](http://arxiv.org/abs/2203.14499v1)|null|
 |**2022-03-25**|**Versatile Multi-Modal Pre-Training for Human-Centric Perception**|Fangzhou Hong et.al.|[2203.13815v1](http://arxiv.org/abs/2203.13815v1)|null|
 |**2022-03-25**|**Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion**|Tianpei Gu et.al.|[2203.13777v1](http://arxiv.org/abs/2203.13777v1)|**[link](https://github.com/gutianpei/mid)**|
 |**2022-03-25**|**Searching for Network Width with Bilaterally Coupled Network**|Xiu Su et.al.|[2203.13714v1](http://arxiv.org/abs/2203.13714v1)|**[link](https://github.com/xiusu/Channel-Bench-Macro)**|
