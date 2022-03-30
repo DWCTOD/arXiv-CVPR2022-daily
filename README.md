@@ -1,9 +1,39 @@
-## Updated on 2022.03.29
+## Updated on 2022.03.30
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-03-29**|**StyleT2I: Toward Compositional and High-Fidelity Text-to-Image Synthesis**|Zhiheng Li et.al.|[2203.15799v1](http://arxiv.org/abs/2203.15799v1)|**[link](https://github.com/zhihengli-UR/StyleT2I)**|
+|**2022-03-29**|**CHEX: CHannel EXploration for CNN Model Compression**|Zejiang Hou et.al.|[2203.15794v1](http://arxiv.org/abs/2203.15794v1)|null|
+|**2022-03-29**|**FisherMatch: Semi-Supervised Rotation Regression via Entropy-based Filtering**|Yingda Yin et.al.|[2203.15765v1](http://arxiv.org/abs/2203.15765v1)|null|
+|**2022-03-29**|**Integrative Few-Shot Learning for Classification and Segmentation**|Dahyun Kang et.al.|[2203.15712v1](http://arxiv.org/abs/2203.15712v1)|null|
+|**2022-03-29**|**OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction**|Lixin Yang et.al.|[2203.15709v1](http://arxiv.org/abs/2203.15709v1)|**[link](https://github.com/lixiny/oakink)**|
+|**2022-03-29**|**EnvEdit: Environment Editing for Vision-and-Language Navigation**|Jialu Li et.al.|[2203.15685v1](http://arxiv.org/abs/2203.15685v1)|**[link](https://github.com/jialuli-luka/envedit)**|
+|**2022-03-29**|**Exploring Frequency Adversarial Attacks for Face Forgery Detection**|Shuai Jia et.al.|[2203.15674v1](http://arxiv.org/abs/2203.15674v1)|null|
+|**2022-03-29**|**PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision**|Kehong Gong et.al.|[2203.15625v1](http://arxiv.org/abs/2203.15625v1)|null|
+|**2022-03-29**|**Learning a Structured Latent Space for Unsupervised Point Cloud Completion**|Yingjie Cai et.al.|[2203.15580v1](http://arxiv.org/abs/2203.15580v1)|null|
+|**2022-03-29**|**BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information**|Nadine Rueegg et.al.|[2203.15536v1](http://arxiv.org/abs/2203.15536v1)|null|
+|**2022-03-29**|**OSOP: A Multi-Stage One Shot Object Pose Estimation Framework**|Ivan Shugurov et.al.|[2203.15533v1](http://arxiv.org/abs/2203.15533v1)|null|
+|**2022-03-29**|**Learning Structured Gaussians to Approximate Deep Ensembles**|Ivor J. A. Simpson et.al.|[2203.15485v1](http://arxiv.org/abs/2203.15485v1)|null|
+|**2022-03-29**|**Clean Implicit 3D Structure from Noisy 2D STEM Images**|Hannah Kniesel et.al.|[2203.15434v1](http://arxiv.org/abs/2203.15434v1)|**[link](https://github.com/hannahkniesel/implicit-electron-tomography)**|
+|**2022-03-29**|**Long-term Video Frame Interpolation via Feature Propagation**|Dawit Mureja Argaw et.al.|[2203.15427v1](http://arxiv.org/abs/2203.15427v1)|null|
+|**2022-03-29**|**Quantifying Societal Bias Amplification in Image Captioning**|Yusuke Hirota et.al.|[2203.15395v1](http://arxiv.org/abs/2203.15395v1)|null|
+|**2022-03-29**|**Alignment-Uniformity aware Representation Learning for Zero-shot Video Classification**|Shi Pu et.al.|[2203.15381v1](http://arxiv.org/abs/2203.15381v1)|**[link](https://github.com/ShipuLoveMili/CVPR2022-AURL)**|
+|**2022-03-29**|**A Style-aware Discriminator for Controllable Image Translation**|Kunhee Kim et.al.|[2203.15375v1](http://arxiv.org/abs/2203.15375v1)|null|
+|**2022-03-29**|**Self-Supervised Image Representation Learning with Geometric Set Consistency**|Nenglun Chen et.al.|[2203.15361v1](http://arxiv.org/abs/2203.15361v1)|null|
+|**2022-03-29**|**Nested Collaborative Learning for Long-Tailed Visual Recognition**|Jun Li et.al.|[2203.15359v1](http://arxiv.org/abs/2203.15359v1)|**[link](https://github.com/bazinga699/ncl)**|
+|**2022-03-29**|**Online Continual Learning on a Contaminated Data Stream with Blurry Task Boundaries**|Jihwan Bang et.al.|[2203.15355v1](http://arxiv.org/abs/2203.15355v1)|**[link](https://github.com/clovaai/puridiver)**|
+|**2022-03-29**|**SIOD: Single Instance Annotated Per Category Per Image for Object Detection**|Hanjun Li et.al.|[2203.15353v1](http://arxiv.org/abs/2203.15353v1)|**[link](https://github.com/solicucu/siod)**|
+|**2022-03-29**|**Task-specific Inconsistency Alignment for Domain Adaptive Object Detection**|Liang Zhao et.al.|[2203.15345v1](http://arxiv.org/abs/2203.15345v1)|null|
+|**2022-03-29**|**Balanced Multimodal Learning via On-the-fly Gradient Modulation**|Xiaokang Peng et.al.|[2203.15332v1](http://arxiv.org/abs/2203.15332v1)|null|
+|**2022-03-29**|**CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters**|Paul Gavrikov et.al.|[2203.15331v1](http://arxiv.org/abs/2203.15331v1)|**[link](https://github.com/paulgavrikov/cnn-filter-db)**|
+|**2022-03-29**|**Dressing in the Wild by Watching Dance Videos**|Xin Dong et.al.|[2203.15320v1](http://arxiv.org/abs/2203.15320v1)|null|
+|**2022-03-29**|**Eigenlanes: Data-Driven Lane Descriptors for Structurally Diverse Lanes**|Dongkwon Jin et.al.|[2203.15302v1](http://arxiv.org/abs/2203.15302v1)|null|
+|**2022-03-29**|**Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation**|Jogendra Nath Kundu et.al.|[2203.15293v1](http://arxiv.org/abs/2203.15293v1)|null|
+|**2022-03-29**|**MAT: Mask-Aware Transformer for Large Hole Image Inpainting**|Wenbo Li et.al.|[2203.15270v1](http://arxiv.org/abs/2203.15270v1)|**[link](https://github.com/fenglinglwb/mat)**|
+|**2022-03-29**|**Eigencontours: Novel Contour Descriptors Based on Low-Rank Approximation**|Wonhui Park et.al.|[2203.15259v1](http://arxiv.org/abs/2203.15259v1)|null|
+|**2022-03-29**|**Pop-Out Motion: 3D-Aware Image Deformation via Learning the Shape Laplacian**|Jihyun Lee et.al.|[2203.15235v1](http://arxiv.org/abs/2203.15235v1)|null|
 |**2022-03-28**|**Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**|Minghao Chen et.al.|[2203.14957v1](http://arxiv.org/abs/2203.14957v1)|**[link](https://github.com/minghchen/carl_code)**|
 |**2022-03-28**|**GIRAFFE HD: A High-Resolution 3D-aware Generative Model**|Yang Xue et.al.|[2203.14954v1](http://arxiv.org/abs/2203.14954v1)|null|
 |**2022-03-28**|**Energy-based Latent Aligner for Incremental Learning**|K J Joseph et.al.|[2203.14952v1](http://arxiv.org/abs/2203.14952v1)|**[link](https://github.com/josephkj/eli)**|
