@@ -27,7 +27,7 @@
 |**2022-03-31**|**Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy**|Tong Zhang et.al.|[2203.17205v1](http://arxiv.org/abs/2203.17205v1)|null|
 |**2022-03-31**|**Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion**|Stepan Tulyakov et.al.|[2203.17191v1](http://arxiv.org/abs/2203.17191v1)|null|
 |**2022-03-31**|**AEGNN: Asynchronous Event-based Graph Neural Networks**|Simon Schaefer et.al.|[2203.17149v1](http://arxiv.org/abs/2203.17149v1)|null|
-|**2022-03-31**|**It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher**|Kanghyun Choi et.al.|[2203.17008v2](http://arxiv.org/abs/2203.17008v2)|null|
+|**2022-03-31**|**It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher**|Kanghyun Choi et.al.|[2203.17008v2](http://arxiv.org/abs/2203.17008v2)|**[link](https://github.com/iamkanghyunchoi/ait)**|
 |**2022-03-31**|**Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond**|Yi Yu et.al.|[2203.16931v1](http://arxiv.org/abs/2203.16931v1)|**[link](https://github.com/yuyi-sd/robust_rain_removal)**|
 |**2022-03-31**|**End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps**|Ke Guo et.al.|[2203.16910v1](http://arxiv.org/abs/2203.16910v1)|**[link](https://github.com/kguo-cs/tdor)**|
 |**2022-03-31**|**Multi-Granularity Alignment Domain Adaptation for Object Detection**|Wenzhang Zhou et.al.|[2203.16897v1](http://arxiv.org/abs/2203.16897v1)|null|
