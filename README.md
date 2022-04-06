@@ -1,9 +1,23 @@
-## Updated on 2022.04.05
+## Updated on 2022.04.06
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-05**|**ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**|Ruohan Gao et.al.|[2204.02389v1](http://arxiv.org/abs/2204.02389v1)|**[link](https://github.com/rhgao/objectfolder)**|
+|**2022-04-05**|**Neural Convolutional Surfaces**|Luca Morreale et.al.|[2204.02289v1](http://arxiv.org/abs/2204.02289v1)|null|
+|**2022-04-05**|**Rethinking Visual Geo-localization for Large-Scale Applications**|Gabriele Berton et.al.|[2204.02287v1](http://arxiv.org/abs/2204.02287v1)|**[link](https://github.com/gmberton/cosplace)**|
+|**2022-04-05**|**Arbitrary-Scale Image Synthesis**|Evangelos Ntavelis et.al.|[2204.02273v1](http://arxiv.org/abs/2204.02273v1)|**[link](https://github.com/vglsd/scaleparty)**|
+|**2022-04-05**|**IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images**|Kai Zhang et.al.|[2204.02232v1](http://arxiv.org/abs/2204.02232v1)|null|
+|**2022-04-05**|**SNUG: Self-Supervised Neural Dynamic Garments**|Igor Santesteban et.al.|[2204.02219v1](http://arxiv.org/abs/2204.02219v1)|**[link](https://github.com/isantesteban/snug)**|
+|**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174v1](http://arxiv.org/abs/2204.02174v1)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
+|**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|
+|**2022-04-05**|**Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition**|Mingfei Han et.al.|[2204.02148v1](http://arxiv.org/abs/2204.02148v1)|null|
+|**2022-04-05**|**Detector-Free Weakly Supervised Group Activity Recognition**|Dongkeun Kim et.al.|[2204.02139v1](http://arxiv.org/abs/2204.02139v1)|null|
+|**2022-04-05**|**Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation**|Tao Feng et.al.|[2204.02136v1](http://arxiv.org/abs/2204.02136v1)|**[link](https://github.com/hi-ft/erd)**|
+|**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil et.al.|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
+|**2022-04-05**|**Text Spotting Transformers**|Xiang Zhang et.al.|[2204.01918v1](http://arxiv.org/abs/2204.01918v1)|**[link](https://github.com/mlpc-ucsd/testr)**|
+|**2022-04-04**|**Revisiting Near/Remote Sensing with Geospatial Attention**|Scott Workman et.al.|[2204.01807v1](http://arxiv.org/abs/2204.01807v1)|null|
 |**2022-04-04**|**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**|Shaowei Liu et.al.|[2204.01696v1](http://arxiv.org/abs/2204.01696v1)|null|
 |**2022-04-04**|**LISA: Learning Implicit Shape and Appearance of Hands**|Enric Corona et.al.|[2204.01695v1](http://arxiv.org/abs/2204.01695v1)|null|
 |**2022-04-04**|**Exemplar-bsaed Pattern Synthesis with Implicit Periodic Field Network**|Haiwei Chen et.al.|[2204.01671v1](http://arxiv.org/abs/2204.01671v1)|null|
