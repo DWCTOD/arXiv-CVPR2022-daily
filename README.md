@@ -1,9 +1,26 @@
-## Updated on 2022.04.06
+## Updated on 2022.04.07
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
+|**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
+|**2022-04-06**|**An Empirical Study of End-to-End Temporal Action Detection**|Xiaolong Liu et.al.|[2204.02932v1](http://arxiv.org/abs/2204.02932v1)|**[link](https://github.com/xlliu7/E2E-TAD)**|
+|**2022-04-06**|**Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network**|Byung-Kwan Lee et.al.|[2204.02738v1](http://arxiv.org/abs/2204.02738v1)|null|
+|**2022-04-06**|**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**|Yizhi Wang et.al.|[2204.02701v1](http://arxiv.org/abs/2204.02701v1)|**[link](https://github.com/yizhiwang96/textlogolayout)**|
+|**2022-04-06**|**Towards An End-to-End Framework for Flow-Guided Video Inpainting**|Zhen Li et.al.|[2204.02663v1](http://arxiv.org/abs/2204.02663v1)|**[link](https://github.com/MCG-NKU/E2FGVI)**|
+|**2022-04-06**|**Towards Robust Adaptive Object Detection under Noisy Annotations**|Xinyu Liu et.al.|[2204.02620v1](http://arxiv.org/abs/2204.02620v1)|**[link](https://github.com/cityu-aim-group/nlte)**|
+|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v1](http://arxiv.org/abs/2204.02611v1)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
+|**2022-04-06**|**Learning to Anticipate Future with Dynamic Context Removal**|Xinyu Xu et.al.|[2204.02587v1](http://arxiv.org/abs/2204.02587v1)|null|
+|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v1](http://arxiv.org/abs/2204.02585v1)|null|
+|**2022-04-06**|**FocalClick: Towards Practical Interactive Image Segmentation**|Xi Chen et.al.|[2204.02574v1](http://arxiv.org/abs/2204.02574v1)|**[link](https://github.com/XavierCHEN34/ClickSEG)**|
+|**2022-04-06**|**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**|Jinkai Zheng et.al.|[2204.02569v1](http://arxiv.org/abs/2204.02569v1)|null|
+|**2022-04-06**|**MixFormer: Mixing Features across Windows and Dimensions**|Qiang Chen et.al.|[2204.02557v1](http://arxiv.org/abs/2204.02557v1)|**[link](https://github.com/PaddlePaddle/PaddleClas)**|
+|**2022-04-06**|**RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection**|Umar Khalid et.al.|[2204.02553v1](http://arxiv.org/abs/2204.02553v1)|**[link](https://github.com/UmarKhalidcs/RODD)**|
+|**2022-04-06**|**Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation**|Wangbo Zhao et.al.|[2204.02547v1](http://arxiv.org/abs/2204.02547v1)|**[link](https://github.com/wangbo-zhao/2022cvpr-mmmmtbvs)**|
+|**2022-04-05**|**Adversarial Robustness through the Lens of Convolutional Filters**|Paul Gavrikov et.al.|[2204.02481v1](http://arxiv.org/abs/2204.02481v1)|**[link](https://github.com/paulgavrikov/cvpr22w_robustnessthroughthelens)**|
+|**2022-04-05**|**Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks**|Wei Peng et.al.|[2204.02480v1](http://arxiv.org/abs/2204.02480v1)|null|
 |**2022-04-05**|**ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**|Ruohan Gao et.al.|[2204.02389v1](http://arxiv.org/abs/2204.02389v1)|**[link](https://github.com/rhgao/objectfolder)**|
 |**2022-04-05**|**Neural Convolutional Surfaces**|Luca Morreale et.al.|[2204.02289v1](http://arxiv.org/abs/2204.02289v1)|null|
 |**2022-04-05**|**Rethinking Visual Geo-localization for Large-Scale Applications**|Gabriele Berton et.al.|[2204.02287v1](http://arxiv.org/abs/2204.02287v1)|**[link](https://github.com/gmberton/cosplace)**|
@@ -12,7 +29,7 @@
 |**2022-04-05**|**SNUG: Self-Supervised Neural Dynamic Garments**|Igor Santesteban et.al.|[2204.02219v1](http://arxiv.org/abs/2204.02219v1)|**[link](https://github.com/isantesteban/snug)**|
 |**2022-04-05**|**Multi-View Transformer for 3D Visual Grounding**|Shijia Huang et.al.|[2204.02174v1](http://arxiv.org/abs/2204.02174v1)|**[link](https://github.com/sega-hsj/mvt-3dvg)**|
 |**2022-04-05**|**Leveraging Equivariant Features for Absolute Pose Regression**|Mohamed Adel Musallam et.al.|[2204.02163v1](http://arxiv.org/abs/2204.02163v1)|null|
-|**2022-04-05**|**Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition**|Mingfei Han et.al.|[2204.02148v1](http://arxiv.org/abs/2204.02148v1)|null|
+|**2022-04-05**|**Dual-AI: Dual-path Actor Interaction Learning for Group Activity Recognition**|Mingfei Han et.al.|[2204.02148v2](http://arxiv.org/abs/2204.02148v2)|null|
 |**2022-04-05**|**Detector-Free Weakly Supervised Group Activity Recognition**|Dongkeun Kim et.al.|[2204.02139v1](http://arxiv.org/abs/2204.02139v1)|null|
 |**2022-04-05**|**Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation**|Tao Feng et.al.|[2204.02136v1](http://arxiv.org/abs/2204.02136v1)|**[link](https://github.com/hi-ft/erd)**|
 |**2022-04-05**|**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**|Vaishakh Patil et.al.|[2204.02091v1](http://arxiv.org/abs/2204.02091v1)|**[link](https://github.com/syscv/p3depth)**|
