@@ -1,21 +1,38 @@
-## Updated on 2022.04.07
+## Updated on 2022.04.08
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-07**|**Total Variation Optimization Layers for Computer Vision**|Raymond A. Yeh et.al.|[2204.03643v1](http://arxiv.org/abs/2204.03643v1)|**[link](https://github.com/raymondyeh07/tv_layers_for_cv)**|
+|**2022-04-07**|**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**|Kalyan Vasudev Alwala et.al.|[2204.03642v1](http://arxiv.org/abs/2204.03642v1)|null|
+|**2022-04-07**|**Unsupervised Image-to-Image Translation with Generative Prior**|Shuai Yang et.al.|[2204.03641v1](http://arxiv.org/abs/2204.03641v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
+|**2022-04-07**|**Class-Incremental Learning with Strong Pre-trained Models**|Tz-Ying Wu et.al.|[2204.03634v1](http://arxiv.org/abs/2204.03634v1)|null|
+|**2022-04-07**|**Unified Contrastive Learning in Image-Text-Label Space**|Jianwei Yang et.al.|[2204.03610v1](http://arxiv.org/abs/2204.03610v1)|**[link](https://github.com/microsoft/unicl)**|
+|**2022-04-07**|**Pin the Memory: Learning to Generalize Semantic Segmentation**|Jin Kim et.al.|[2204.03609v1](http://arxiv.org/abs/2204.03609v1)|null|
+|**2022-04-07**|**AutoRF: Learning 3D Object Radiance Fields from Single View Observations**|Norman Müller et.al.|[2204.03593v1](http://arxiv.org/abs/2204.03593v1)|null|
+|**2022-04-07**|**Many-to-many Splatting for Efficient Video Frame Interpolation**|Ping Hu et.al.|[2204.03513v1](http://arxiv.org/abs/2204.03513v1)|**[link](https://github.com/feinanshan/m2m_vfi)**|
+|**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|null|
+|**2022-04-07**|**PSTR: End-to-End One-Step Person Search With Transformers**|Jiale Cao et.al.|[2204.03340v1](http://arxiv.org/abs/2204.03340v1)|**[link](https://github.com/jialecao001/pstr)**|
+|**2022-04-07**|**Coarse-to-Fine Feature Mining for Video Semantic Segmentation**|Guolei Sun et.al.|[2204.03330v1](http://arxiv.org/abs/2204.03330v1)|**[link](https://github.com/guoleisun/vss-cffm)**|
+|**2022-04-07**|**L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation**|Peng-Tao Jiang et.al.|[2204.03206v1](http://arxiv.org/abs/2204.03206v1)|null|
+|**2022-04-07**|**Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality**|Tristan Thrush et.al.|[2204.03162v1](http://arxiv.org/abs/2204.03162v1)|null|
+|**2022-04-06**|**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**|Zhiqin Chen et.al.|[2204.03105v1](http://arxiv.org/abs/2204.03105v1)|null|
+|**2022-04-06**|**Hierarchical Self-supervised Representation Learning for Movie Understanding**|Fanyi Xiao et.al.|[2204.03101v1](http://arxiv.org/abs/2204.03101v1)|null|
+|**2022-04-06**|**Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency**|Zhiwu Qing et.al.|[2204.03017v1](http://arxiv.org/abs/2204.03017v1)|null|
+|**2022-04-06**|**Multi-Scale Memory-Based Video Deblurring**|Bo Ji et.al.|[2204.02977v1](http://arxiv.org/abs/2204.02977v1)|**[link](https://github.com/jibo27/memdeblur)**|
 |**2022-04-06**|**Temporal Alignment Networks for Long-term Video**|Tengda Han et.al.|[2204.02968v1](http://arxiv.org/abs/2204.02968v1)|null|
 |**2022-04-06**|**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**|Avishkar Saha et.al.|[2204.02944v1](http://arxiv.org/abs/2204.02944v1)|null|
 |**2022-04-06**|**An Empirical Study of End-to-End Temporal Action Detection**|Xiaolong Liu et.al.|[2204.02932v1](http://arxiv.org/abs/2204.02932v1)|**[link](https://github.com/xlliu7/E2E-TAD)**|
 |**2022-04-06**|**Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network**|Byung-Kwan Lee et.al.|[2204.02738v1](http://arxiv.org/abs/2204.02738v1)|null|
 |**2022-04-06**|**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**|Yizhi Wang et.al.|[2204.02701v1](http://arxiv.org/abs/2204.02701v1)|**[link](https://github.com/yizhiwang96/textlogolayout)**|
-|**2022-04-06**|**Towards An End-to-End Framework for Flow-Guided Video Inpainting**|Zhen Li et.al.|[2204.02663v1](http://arxiv.org/abs/2204.02663v1)|**[link](https://github.com/MCG-NKU/E2FGVI)**|
+|**2022-04-06**|**Towards An End-to-End Framework for Flow-Guided Video Inpainting**|Zhen Li et.al.|[2204.02663v2](http://arxiv.org/abs/2204.02663v2)|**[link](https://github.com/MCG-NKU/E2FGVI)**|
 |**2022-04-06**|**Towards Robust Adaptive Object Detection under Noisy Annotations**|Xinyu Liu et.al.|[2204.02620v1](http://arxiv.org/abs/2204.02620v1)|**[link](https://github.com/cityu-aim-group/nlte)**|
-|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v1](http://arxiv.org/abs/2204.02611v1)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
+|**2022-04-06**|**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**|Yanan Wang et.al.|[2204.02611v2](http://arxiv.org/abs/2204.02611v2)|**[link](https://github.com/yanan-wang-cs/clonedperson)**|
 |**2022-04-06**|**Learning to Anticipate Future with Dynamic Context Removal**|Xinyu Xu et.al.|[2204.02587v1](http://arxiv.org/abs/2204.02587v1)|null|
-|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v1](http://arxiv.org/abs/2204.02585v1)|null|
+|**2022-04-06**|**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**|Krishna Wadhwani et.al.|[2204.02585v2](http://arxiv.org/abs/2204.02585v2)|null|
 |**2022-04-06**|**FocalClick: Towards Practical Interactive Image Segmentation**|Xi Chen et.al.|[2204.02574v1](http://arxiv.org/abs/2204.02574v1)|**[link](https://github.com/XavierCHEN34/ClickSEG)**|
-|**2022-04-06**|**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**|Jinkai Zheng et.al.|[2204.02569v1](http://arxiv.org/abs/2204.02569v1)|null|
+|**2022-04-06**|**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**|Jinkai Zheng et.al.|[2204.02569v1](http://arxiv.org/abs/2204.02569v1)|**[link](https://github.com/Gait3D/Gait3D-Benchmark)**|
 |**2022-04-06**|**MixFormer: Mixing Features across Windows and Dimensions**|Qiang Chen et.al.|[2204.02557v1](http://arxiv.org/abs/2204.02557v1)|**[link](https://github.com/PaddlePaddle/PaddleClas)**|
 |**2022-04-06**|**RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection**|Umar Khalid et.al.|[2204.02553v1](http://arxiv.org/abs/2204.02553v1)|**[link](https://github.com/UmarKhalidcs/RODD)**|
 |**2022-04-06**|**Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation**|Wangbo Zhao et.al.|[2204.02547v1](http://arxiv.org/abs/2204.02547v1)|**[link](https://github.com/wangbo-zhao/2022cvpr-mmmmtbvs)**|
