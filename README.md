@@ -1,4 +1,4 @@
-## Updated on 2022.04.08
+## Updated on 2022.04.09
 
 ## CVPR2022
 
@@ -12,7 +12,7 @@
 |**2022-04-07**|**Pin the Memory: Learning to Generalize Semantic Segmentation**|Jin Kim et.al.|[2204.03609v1](http://arxiv.org/abs/2204.03609v1)|null|
 |**2022-04-07**|**AutoRF: Learning 3D Object Radiance Fields from Single View Observations**|Norman Müller et.al.|[2204.03593v1](http://arxiv.org/abs/2204.03593v1)|null|
 |**2022-04-07**|**Many-to-many Splatting for Efficient Video Frame Interpolation**|Ping Hu et.al.|[2204.03513v1](http://arxiv.org/abs/2204.03513v1)|**[link](https://github.com/feinanshan/m2m_vfi)**|
-|**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|null|
+|**2022-04-07**|**Deep Visual Geo-localization Benchmark**|Gabriele Berton et.al.|[2204.03444v1](http://arxiv.org/abs/2204.03444v1)|**[link](https://github.com/gmberton/deep-visual-geo-localization-benchmark)**|
 |**2022-04-07**|**PSTR: End-to-End One-Step Person Search With Transformers**|Jiale Cao et.al.|[2204.03340v1](http://arxiv.org/abs/2204.03340v1)|**[link](https://github.com/jialecao001/pstr)**|
 |**2022-04-07**|**Coarse-to-Fine Feature Mining for Video Semantic Segmentation**|Guolei Sun et.al.|[2204.03330v1](http://arxiv.org/abs/2204.03330v1)|**[link](https://github.com/guoleisun/vss-cffm)**|
 |**2022-04-07**|**L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation**|Peng-Tao Jiang et.al.|[2204.03206v1](http://arxiv.org/abs/2204.03206v1)|null|
