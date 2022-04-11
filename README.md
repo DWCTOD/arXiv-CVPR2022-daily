@@ -1,9 +1,20 @@
-## Updated on 2022.04.10
+## Updated on 2022.04.11
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
+|**2022-04-08**|**General Incremental Learning with Domain-aware Categorical Representations**|Jiangwei Xie et.al.|[2204.04078v1](http://arxiv.org/abs/2204.04078v1)|null|
+|**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
+|**2022-04-08**|**Probabilistic Representations for Video Contrastive Learning**|Jungin Park et.al.|[2204.03946v1](http://arxiv.org/abs/2204.03946v1)|null|
+|**2022-04-08**|**Does Robustness on ImageNet Transfer to Downstream Tasks?**|Yutaro Yamada et.al.|[2204.03934v1](http://arxiv.org/abs/2204.03934v1)|null|
+|**2022-04-08**|**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**|Chunyu Li et.al.|[2204.03929v1](http://arxiv.org/abs/2204.03929v1)|null|
+|**2022-04-08**|**CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning**|Yiqing Shen et.al.|[2204.03880v1](http://arxiv.org/abs/2204.03880v1)|null|
+|**2022-04-08**|**Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation**|Lin Chen et.al.|[2204.03838v1](http://arxiv.org/abs/2204.03838v1)|**[link](https://github.com/xiaoachen98/daln)**|
+|**2022-04-07**|**TorMentor: Deterministic dynamic-path, data augmentations with fractals**|Anguelos Nicolaou et.al.|[2204.03776v1](http://arxiv.org/abs/2204.03776v1)|null|
+|**2022-04-07**|**Gravitationally Lensed Black Hole Emission Tomography**|Aviad Levis et.al.|[2204.03715v1](http://arxiv.org/abs/2204.03715v1)|null|
+|**2022-04-07**|**TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates**|You Xie et.al.|[2204.03671v1](http://arxiv.org/abs/2204.03671v1)|null|
 |**2022-04-07**|**Total Variation Optimization Layers for Computer Vision**|Raymond A. Yeh et.al.|[2204.03643v1](http://arxiv.org/abs/2204.03643v1)|**[link](https://github.com/raymondyeh07/tv_layers_for_cv)**|
 |**2022-04-07**|**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**|Kalyan Vasudev Alwala et.al.|[2204.03642v1](http://arxiv.org/abs/2204.03642v1)|null|
 |**2022-04-07**|**Unsupervised Image-to-Image Translation with Generative Prior**|Shuai Yang et.al.|[2204.03641v1](http://arxiv.org/abs/2204.03641v1)|**[link](https://github.com/williamyang1991/gp-unit)**|
