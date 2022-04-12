@@ -1,9 +1,33 @@
-## Updated on 2022.04.11
+## Updated on 2022.04.12
 
 ## CVPR2022
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-04-11**|**Single-Photon Structured Light**|Varun Sundar et.al.|[2204.05300v1](http://arxiv.org/abs/2204.05300v1)|null|
+|**2022-04-11**|**Focal Length and Object Pose Estimation via Render and Compare**|Georgy Ponimatkin et.al.|[2204.05145v1](http://arxiv.org/abs/2204.05145v1)|**[link](https://github.com/ponimatkin/focalpose)**|
+|**2022-04-11**|**XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation**|Wei Liu et.al.|[2204.05084v1](http://arxiv.org/abs/2204.05084v1)|null|
+|**2022-04-11**|**Pyramid Grafting Network for One-Stage High Resolution Saliency Detection**|Chenxi Xie et.al.|[2204.05041v1](http://arxiv.org/abs/2204.05041v1)|**[link](https://github.com/icvteam/pgnet)**|
+|**2022-04-11**|**Structure-Aware Motion Transfer with Deformable Anchor Model**|Jiale Tao et.al.|[2204.05018v1](http://arxiv.org/abs/2204.05018v1)|**[link](https://github.com/jialetao/dam)**|
+|**2022-04-11**|**HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model**|Masum Shah Junayed et.al.|[2204.05007v1](http://arxiv.org/abs/2204.05007v1)|null|
+|**2022-04-11**|**Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data**|Kyungjune Baek et.al.|[2204.04950v1](http://arxiv.org/abs/2204.04950v1)|**[link](https://github.com/friedronaldo/primitives-ps)**|
+|**2022-04-11**|**When NAS Meets Trees: An Efficient Algorithm for Neural Architecture Search**|Guocheng Qian et.al.|[2204.04918v1](http://arxiv.org/abs/2204.04918v1)|null|
+|**2022-04-11**|**Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**|Jihwan Park et.al.|[2204.04836v1](http://arxiv.org/abs/2204.04836v1)|**[link](https://github.com/mlvlab/cpchoi)**|
+|**2022-04-10**|**SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition**|Victor Escorcia et.al.|[2204.04796v1](http://arxiv.org/abs/2204.04796v1)|null|
+|**2022-04-10**|**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**|Yujiao Shi et.al.|[2204.04752v1](http://arxiv.org/abs/2204.04752v1)|**[link](https://github.com/shiyujiao/highlyaccurate)**|
+|**2022-04-10**|**Reasoning with Multi-Structure Commonsense Knowledge in Visual Dialog**|Shunyu Zhang et.al.|[2204.04680v1](http://arxiv.org/abs/2204.04680v1)|null|
+|**2022-04-10**|**FedCorr: Multi-Stage Federated Learning for Label Noise Correction**|Jingyi Xu et.al.|[2204.04677v1](http://arxiv.org/abs/2204.04677v1)|**[link](https://github.com/xu-jingyi/fedcorr)**|
+|**2022-04-10**|**NAN: Noise-Aware NeRFs for Burst-Denoising**|Naama Pearl et.al.|[2204.04668v1](http://arxiv.org/abs/2204.04668v1)|null|
+|**2022-04-10**|**Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation**|Xiangtai Li et.al.|[2204.04656v1](http://arxiv.org/abs/2204.04656v1)|**[link](https://github.com/lxtgh/video-k-net)**|
+|**2022-04-10**|**Learning Pixel-Level Distinctions for Video Highlight Detection**|Fanyue Wei et.al.|[2204.04615v1](http://arxiv.org/abs/2204.04615v1)|null|
+|**2022-04-10**|**Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention**|Yu Yang et.al.|[2204.04601v1](http://arxiv.org/abs/2204.04601v1)|**[link](https://github.com/yuyang0901/lavise)**|
+|**2022-04-10**|**Robust Cross-Modal Representation Learning with Progressive Self-Distillation**|Alex Andonian et.al.|[2204.04588v1](http://arxiv.org/abs/2204.04588v1)|null|
+|**2022-04-09**|**Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification**|Jiangtao Xie et.al.|[2204.04567v1](http://arxiv.org/abs/2204.04567v1)|null|
+|**2022-04-09**|**Multimodal Transformer for Nursing Activity Recognition**|Momal Ijaz et.al.|[2204.04564v1](http://arxiv.org/abs/2204.04564v1)|null|
+|**2022-04-09**|**DeepLIIF: An Online Platform for Quantification of Clinical Pathology Slides**|Parmida Ghahremani et.al.|[2204.04494v1](http://arxiv.org/abs/2204.04494v1)|**[link](https://github.com/nadeemlab/deepliif)**|
+|**2022-04-09**|**ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**|Jianan Wang et.al.|[2204.04428v1](http://arxiv.org/abs/2204.04428v1)|null|
+|**2022-04-09**|**Adaptive Differential Filters for Fast and Communication-Efficient Federated Learning**|Daniel Becking et.al.|[2204.04424v1](http://arxiv.org/abs/2204.04424v1)|null|
+|**2022-04-09**|**The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization**|Zeyi Huang et.al.|[2204.04384v1](http://arxiv.org/abs/2204.04384v1)|**[link](https://github.com/oodbag/w2d)**|
 |**2022-04-08**|**Dancing under the stars: video denoising in starlight**|Kristina Monakhova et.al.|[2204.04210v1](http://arxiv.org/abs/2204.04210v1)|null|
 |**2022-04-08**|**General Incremental Learning with Domain-aware Categorical Representations**|Jiangwei Xie et.al.|[2204.04078v1](http://arxiv.org/abs/2204.04078v1)|null|
 |**2022-04-08**|**Identifying Ambiguous Similarity Conditions via Semantic Matching**|Han-Jia Ye et.al.|[2204.04053v1](http://arxiv.org/abs/2204.04053v1)|null|
